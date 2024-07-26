@@ -3,10 +3,11 @@
         {
             "name": "Mac",
             "includePath": [
-                "${workspaceFolder}/**",
-                "${workspaceFolder}/glfw-3.4.bin.MACOS/include",
-                "${workspaceFolder}/glad/include"
-            ],
+    "${workspaceFolder}/**",
+    "/Users/tylergoyea/Documents/UNI_Self/C++/chess/include/",  // Add this line
+    "/Users/tylergoyea/Documents/UNI_Self/C++/chess/glfw-3.4.bin.MACOS/include/GLFW",
+    "${workspaceFolder}"
+],
             "defines": [],
             "macFrameworkPath": [
                 "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks"
